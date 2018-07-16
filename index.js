@@ -1,2 +1,2 @@
-const currentUser = "Mallory Steffes";
+let currentUser = "Mallory Steffes";
 let welcomeMessage = "Welcome to Flatbook,";
