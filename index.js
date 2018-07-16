@@ -1,2 +1,2 @@
 let currentUser = "Mallory Steffes";
-let welcomeMessage = "Welcome to Flatbook,";
+let welcomeMessage = "Welcome to Flatbook, currentUser";
